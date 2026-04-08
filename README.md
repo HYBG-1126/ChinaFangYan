@@ -37,7 +37,7 @@
 仓库采用清晰的目录结构，方便大家查找和贡献资源，具体结构如下：
 
 Chinese-Dialects/
-./README.md  [error opening dir]
+./README.md
 ./dialects
 ├── 北方方言
 │        └── 北京
